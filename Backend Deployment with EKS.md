@@ -4,7 +4,7 @@
 
 **Author:** RonJedrick
 **Contact:** jedrickron3@gmail.com
-
+ 
 **Project Series:**
 
 - [Launch a Kubernetes Cluster](http://nextwork.ai/projects/aws-compute-eks1)
